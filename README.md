@@ -16,8 +16,7 @@ A complete GenAI application for summarizing documents using Amazon Bedrock's Co
 - **🏷️ Topic Extraction**: Automatically identify key themes and topics
 
 ### Technical Capabilities
-- **Dual Processing Modes**:
-  - Text extraction method (using PyPDF2)
+- **Processing Modes**:
   - Direct PDF processing (native Bedrock document understanding)
 - **Multiple Claude Models**:
   - Claude 3 Sonnet (balanced performance)
